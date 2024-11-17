@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anuvrat-Verma
-- 👀 I’m interested in cryptography and web development
+- 👀 I’m interested in machine learning and web development
 - 🌱 I’m currently learning ReactJS...
 - 📫 How to reach me anuvratverma@gmail.com...
 
